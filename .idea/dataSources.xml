@@ -4,6 +4,7 @@
     <data-source source="LOCAL" name="postgres@localhost" uuid="277925df-8bb1-47d4-8c1a-30eb83cd2c28">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
+      <remarks>$PROJECT_DIR$/cherepaha/settings.py</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
